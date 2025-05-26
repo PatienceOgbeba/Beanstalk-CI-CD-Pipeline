@@ -139,7 +139,7 @@ Now, each push to GitHub will automatically trigger a deployment.
 
 ## Architecture Diagram
 
-![Architecture Diagram](Blank%20diagram.png)
+![Architecture Diagram](blank1-diagram.jpeg)
 
 
 
