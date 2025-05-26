@@ -139,11 +139,8 @@ Now, each push to GitHub will automatically trigger a deployment.
 
 ## Architecture Diagram
 
+![Architecture Diagram](Blank%20diagram.png)
 
-
-```
-
-```
 
 
 
@@ -164,7 +161,6 @@ Every time you push to GitHub, CodePipeline deploys the latest version to Elasti
 
 ---
 
-**Author:** [Your Name]
 
 **License:** MIT
 
